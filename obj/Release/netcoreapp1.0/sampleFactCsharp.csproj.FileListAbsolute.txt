@@ -1,0 +1,8 @@
+D:\New\Alexa\skill-sample-csharp-fact-master\lambda\custom\bin\Release\netcoreapp1.0\sampleFactCsharp.deps.json
+D:\New\Alexa\skill-sample-csharp-fact-master\lambda\custom\bin\Release\netcoreapp1.0\sampleFactCsharp.dll
+D:\New\Alexa\skill-sample-csharp-fact-master\lambda\custom\bin\Release\netcoreapp1.0\sampleFactCsharp.pdb
+D:\New\Alexa\skill-sample-csharp-fact-master\lambda\custom\obj\Release\netcoreapp1.0\sampleFactCsharp.csproj.CoreCompileInputs.cache
+D:\New\Alexa\skill-sample-csharp-fact-master\lambda\custom\obj\Release\netcoreapp1.0\sampleFactCsharp.AssemblyInfoInputs.cache
+D:\New\Alexa\skill-sample-csharp-fact-master\lambda\custom\obj\Release\netcoreapp1.0\sampleFactCsharp.AssemblyInfo.cs
+D:\New\Alexa\skill-sample-csharp-fact-master\lambda\custom\obj\Release\netcoreapp1.0\sampleFactCsharp.dll
+D:\New\Alexa\skill-sample-csharp-fact-master\lambda\custom\obj\Release\netcoreapp1.0\sampleFactCsharp.pdb
